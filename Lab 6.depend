@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1661990083 source:e:\uni courses\embbeded course\c excercises\lab 6\lab 6\main.c
+1662233580 source:e:\uni courses\embbeded course\c excercises\lab 6\lab 6\main.c
 	<stdio.h>
 	<stdlib.h>
+	"Head.h"
 
 1662231569 source:e:\uni courses\embbeded course\c excercises\lab 6\lab 6\head.c
+
+1662233539 e:\uni courses\embbeded course\c excercises\lab 6\lab 6\head.h
 
